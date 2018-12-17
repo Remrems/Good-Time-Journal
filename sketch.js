@@ -1,3 +1,4 @@
+//Kommentar von Christian  
 var data = [];
 var ready = false;
 var dateScale = d3.scaleTime();
