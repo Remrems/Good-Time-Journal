@@ -156,7 +156,7 @@ for (var j = 0; j < dayHour.length; j++) {
     fill('black');
     textAlign(LEFT);
     textSize(11);
-    text(hours, x, 50);
+    text(hours, x, 70);
 
 console.log(x);
 }
