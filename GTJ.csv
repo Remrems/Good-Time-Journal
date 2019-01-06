@@ -130,7 +130,8 @@ Date,Hour,Start,End,Activities,Environments,Energylevel,Moodlevel,Alcohol,Object
 20.10.18,4,12:00,16:00,talking,outside,4,5,,food,Friends,Anina,9
 20.10.18,5,17:00,18:30,Commuting,outside,4,5,,"Train, book, phone",Alone,,9
 20.10.18,6,18:30,21:00,"Talking, Cooking, Eating",Ross home,5,5,,food,Friends,Ross,10
-20.10.18,7,21:00,04:00,Concert,Concert Venue,4,4,beer,,Friends,Ross,9
+20.10.18,7,21:00,23:59,Concert,Concert Venue,4,4,beer,,Friends,Ross,9
+21.10.18,7,00:00,04:00,Concert,Concert Venue,4,4,beer,,Friends,Ross,9
 21.10.18,1,04:00,05:00,talking,Ross home,1,4,,,Friends,Ross,9
 21.10.18,2,11:30,14:30,talking,Ross home,3,5,,,Friends,Ross,9
 21.10.18,3,15:00,16:30,Commuting,outside,3,5,,"Train, book, phone",Alone,,9
@@ -149,7 +150,7 @@ Date,Hour,Start,End,Activities,Environments,Energylevel,Moodlevel,Alcohol,Object
 22.10.18,8,13:00,13:15,Commuting,outside,4,4,,bike,alone,,9
 22.10.18,9,13:30,16:45,school project,university,4,4,,computer,class,larissa,7
 22.10.18,10,16:45,17:30,Commuting,outside,3,3,,tram,alone,,7
-22.10.18,11,17:00,00:00,household,home,3,2,,,alone,,6
+22.10.18,11,17:00,18:00,household,home,3,2,,,alone,,6
 22.10.18,12,18:30,19:30,Cooking,"home, kitchen",3,4,,,friends,"Lila, Matthias",8
 22.10.18,13,19:30,20:30,"Eating, reading","home, kitchen",3,4,,"food, book",alone,,9
 22.10.18,14,20:30,23:00,"Drawing, TV","home, lilas room",2,3,,"computer, TV",friends,"lila, Matthias, ubah, domi 1+2",8
