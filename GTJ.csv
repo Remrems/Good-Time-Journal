@@ -2,27 +2,26 @@ Date,Hour,Start,End,Activities,Environments,Energylevel,Moodlevel,Alcohol,Object
 09.10.18,1,08:00,08:20,Meditating,"home, bed",4,5,,nothing,Alone,,9
 09.10.18,2,08:50,09:00,Commuting,outside,4,4,,bike,Alone,,8
 09.10.18,3,09:00,13:00,Working,office,3,3,,computer,Co worker,Ueli,3
-09.10.18,4,13:00,13:30,"eating, reading",office,4,4,,"book, food",Alone,,6
+09.10.18,4,13:00,13:30,Eating,office,4,4,,"book, food",Alone,,6
 09.10.18,5,13:30,16:30,Working,office,3,2,,computer,Co worker,Ueli,2
 09.10.18,6,16:30,17:00,errands,supermarket,3,3,,nothing,Alone,,7
 09.10.18,7,17:00,17:15,Commuting,outside,3,4,,bike,Alone,,7
 09.10.18,8,17:15,18:00,errands,"home, kitchen",3,4,,computer,Friends,"Lila, Matthias",7
-09.10.18,9,18:00,18:30,Phoning,"home, my room",4,2,,phone,family,dad,4
-09.10.18,10,18:30,19:00,Phoning,"home, my room",4,4,,phone,Friends,Ricardo,7
-09.10.18,11,19:00,19:30,household,"home, my room",2,3,,,Alone,,5
-09.10.18,12,19:30,19:45,Cooking,"home, kitchen",3,3,,Food,Alone,,8
-09.10.18,13,19:45,20:15,"Eating, Netflix","home, kitchen",3,4,Wine,"Food, iPad",Alone,,8
-09.10.18,14,20:00,23:00,Netflix,"home, Lilas room",4,4,Wine,TV,Friends,Lila,8
+09.10.18,9,18:00,19:00,Talking,"home, my room",4,2,,phone,family,dad,4
+09.10.18,10,19:00,19:30,household,"home, my room",2,3,,,Alone,,5
+09.10.18,11,19:30,19:45,Cooking,"home, kitchen",3,3,,Food,Alone,,8
+09.10.18,12,19:45,20:15,Eating,"home, kitchen",3,4,Wine,"Food, iPad",Alone,,8
+09.10.18,13,20:00,23:00,Netflix,"home, Lilas room",4,4,Wine,TV,Friends,Lila,8
 10.10.18,1,07:50,08:00,Commuting,outside,4,4,,bike,Alone,,8
 10.10.18,2,08:00,11:00,Working,office,3,3,,computer,Alone,,5
 10.10.18,3,11:00,11:15,Commuting,outside,5,4,,bike,Alone,,7
 10.10.18,4,11:15,11:45,Cooking,"home, kitchen",4,4,,Food,Alone,,9
-10.10.18,5,11:45,13:00,"eating, reading","home, kitchen",4,4,,"book, food",Alone,,8
+10.10.18,5,11:45,13:00,Eating,"home, kitchen",4,4,,"book, food",Alone,,8
 10.10.18,6,13:00,16:00,Working,"home, my room",2,2,,computer,Alone,,3
 10.10.18,7,16:30,16:40,Commuting,outside,3,4,,bike,Alone,,7
-10.10.18,8,16:45,18:00,Power yoga,sporthall,5,4,,nothing,sportclass,,9
+10.10.18,8,16:45,18:00,Sport,sporthall,5,4,,nothing,sportclass,,9
 10.10.18,9,19:40,20:00,Commuting,outside,3,4,,bike,Alone,,9
-10.10.18,10,20:00,21:00,Museum,bar,4,3,Beer,drinks,Friends,Lila,9
+10.10.18,10,20:00,21:00,Culture,bar,4,3,Beer,drinks,Friends,Lila,9
 10.10.18,11,21:00,23:00,talking,bar,3,5,Beer,drinks,Friends,Group,9
 10.10.18,12,23:00,23:15,Commuting,outside,2,2,,bike,friends,Lila,3
 11.10.18,1,08:00,08:20,Commuting,outside,2,3,,bike,Alone,,8
@@ -32,19 +31,19 @@ Date,Hour,Start,End,Activities,Environments,Energylevel,Moodlevel,Alcohol,Object
 11.10.18,5,13:10,13:25,Meditating,"home, my room",1,3,,nothing,Alone,,7
 11.10.18,6,16:00,17:00,Commuting,outside,2,3,,train,alone,,6
 11.10.18,7,17:00,18:00,Talking,home,2,4,,,family,"mom, brother",7
-11.10.18,8,18:00,20:00,eating,Restaurant,2,4,Wine,Food,family,mom,8
-11.10.18,9,20:00,23:59,Talking,Bar,4,5,Wine,Drinks,Friends,5N,9
+11.10.18,8,18:00,19:00,Eating,Restaurant,2,4,Wine,Food,family,mom,8
+11.10.18,9,19:00,23:59,Talking,Bar,4,5,Wine,Drinks,Friends,5N,9
 12.10.18,1,00:00,01:00,Commuting,outside,2,5,,train,Friends,Lila,9
 12.10.18,2,08:40,09:00,Meditating,"home, bed",2,4,,nothing,Alone,,8
 12.10.18,3,09:00,12:00,Working,"home, my room",2,1,,computer,Alone,,4
-12.10.18,4,12:00,14:00,"Talking, Eating","home, kitchen",5,5,,"phone, food",Friends,"Lila, Matthias",9
+12.10.18,4,12:00,14:00,Eating,"home, kitchen",5,5,,"phone, food",Friends,"Lila, Matthias",9
 12.10.18,5,14:00,15:00,Working,"home, my room",2,3,,computer,Alone,,4
 12.10.18,6,15:00,16:00,Reading,"home, bed",2,3,,book,Alone,,7
 12.10.18,7,16:00,18:00,Netflix,"home, bed",2,3,,Computer,Alone,,4
-12.10.18,8,19:00,23:45,"Talking, Eating",home,4,4,Wine,"Food, Games",Friends,Group,8
+12.10.18,8,19:00,23:45,Talking,home,4,4,Wine,"Food, Games",Friends,Group,8
 12.10.18,9,23:45,23:59,Commuting,outside,2,5,,tram,Friends,"Lila, Ubah",9
 13.10.18,1,00:00,02:00,talking,bar,4,2,Beer,drinks,Friends,Group,6
-13.10.18,2,09:00,13:00,"Eating, Netflix","home, bed",2,2,,computer,Alone,,4
+13.10.18,2,09:00,13:00,Netflix,"home, bed",2,2,,computer,Alone,,4
 13.10.18,3,13:00,15:00,school project,"home, bed",3,3,,computer,alone,,6
 13.10.18,4,15:00,16:00,household,"home, my room",3,2,,my stuff,alone,,5
 13.10.18,5,16:00,16:20,Meditating,"home, bed",5,5,,nothing,alone,,8
@@ -53,24 +52,23 @@ Date,Hour,Start,End,Activities,Environments,Energylevel,Moodlevel,Alcohol,Object
 13.10.18,8,22:00,22:20,Meditating,"home, bed",1,3,,nothing,alone,,7
 14.10.18,1,08:20,08:30,Commuting,outside,2,2,,bike,Alone,,8
 14.10.18,2,08:30,13:00,Working,office,2,3,,computer,Co worker,Urs,6
-14.10.18,3,13:00,13:30,"eating, reading",office,3,4,,"book, food",Alone,,8
+14.10.18,3,13:00,13:30,Eating,office,3,4,,"book, food",Alone,,8
 14.10.18,4,13:30,17:30,Working,office,4,2,,computer,Co worker,Urs,7
 14.10.18,5,17:30,17:40,Commuting,outside,2,2,,bike,Alone,,8
-14.10.18,6,17:40,17:55,Phoning,"home, my room",4,1,,phone,dad,,2
-14.10.18,7,18:00,18:40,Phoning,"home, my room",4,5,,phone,friends,Arrigo,8
-14.10.18,8,19:45,20:00,Commuting,outside,2,2,,bike,Friends,Lila,9
-14.10.18,9,20:00,23:00,Cinema,,3,5,,tv,friends,"Lila, Matthias",9
-14.10.18,10,23:00,23:15,Commuting,outside,2,3,,bike,Friends,Lila,6
-14.10.18,11,23:15,23:59,music,"home, bed",1,2,,iPad,alone,,4
+14.10.18,6,17:40,18:40,Talking,"home, my room",4,1,,phone,dad,,2
+14.10.18,7,19:45,20:00,Commuting,outside,2,2,,bike,Friends,Lila,9
+14.10.18,8,20:00,23:00,Culture,,3,5,,tv,friends,"Lila, Matthias",9
+14.10.18,9,23:00,23:15,Commuting,outside,2,3,,bike,Friends,Lila,6
+14.10.18,10,23:15,23:59,culture,"home, bed",1,2,,iPad,alone,,4
 15.10.18,1,08:00,08:10,meditating,"home, bed",4,4,,,alone,,8
 15.10.18,2,08:50,09:00,Commuting,outside,4,4,,bike,Alone,,7
-15.10.18,3,09:00,12:00,Bachelor,University,4,4,,computer,Class,,7
+15.10.18,3,09:00,12:00,school project,University,4,4,,computer,Class,,7
 15.10.18,4,12:00,12:20,Commuting,outside,4,4,,bike,Alone,,8
-15.10.18,5,12:30,13:30,Power yoga,sporthall,4,5,,,sportclass,,9
+15.10.18,5,12:30,13:30,Sport,sporthall,4,5,,,sportclass,,9
 15.10.18,6,13:30,13:45,Commuting,outside,4,5,,bike,Alone,,9
-15.10.18,7,14:00,18:00,Bachelor,University,5,5,,computer,Class,,9
+15.10.18,7,14:00,18:00,School project,University,5,5,,computer,Class,,9
 15.10.18,8,18:00,18:25,Commuting,outside,4,5,,bike,Alone,,7
-15.10.18,9,19:00,23:00,"Talking, Eating",friends home,5,5,,food,Friends,Arrigo,9
+15.10.18,9,19:00,23:00,Talking,friends home,5,5,,food,Friends,Arrigo,9
 15.10.18,10,23:00,23:15,Commuting,outside,4,5,,bike,Alone,,8
 15.10.18,11,23:15,23:45,Journal,"home, bed",3,5,,journal,Alone,,8
 15.10.18,12,23:50,23:59,Meditating,"home, bed",3,5,,nothing,Alone,,8
@@ -88,14 +86,14 @@ Date,Hour,Start,End,Activities,Environments,Energylevel,Moodlevel,Alcohol,Object
 16.10.18,12,20:15,22:00,Netflix,"home, Lilas room",2,4,,TV,Friends,Lila,9
 17.10.18,1,09:00,09:10,Commuting,outside,4,4,,bike,Alone,,8
 17.10.18,2,09:10,12:00,school project,University,4,3,,computer,Class,Larissa,7
-17.10.18,3,12:00,13:00,"Talking, Eating",outside,4,4,,food,Class,,8
+17.10.18,3,12:00,13:00,eating,outside,4,4,,food,Class,,8
 17.10.18,4,13:00,16:30,school project,university,4,3,,computer,class,larissa,8
 17.10.18,5,16:30,16:45,Commuting,outside,4,4,,bike,Alone,,8
-17.10.18,6,17:00,18:00,Bodyforming,sporthall,4,4,,,sportclass,,9
+17.10.18,6,17:00,18:00,Sport,sporthall,4,4,,,sportclass,,9
 17.10.18,7,18:00,18:10,Commuting,outside,3,4,,bike,Alone,,8
 17.10.18,8,19:00,20:00,Working,"home, my room",2,2,,computer,Alone,,4
 17.10.18,9,20:00,22:00,Netflix,"home, bed",2,4,,computer,Alone,,7
-17.10.18,10,22:00,23:00,Phoning,"home, bed",2,3,,phone,Friends,Arrigo,7
+17.10.18,10,22:00,23:00,talking,"home, bed",2,3,,phone,Friends,Arrigo,7
 17.10.18,11,23:00,23:59,Surfing,"home, bed",1,2,,phone,Alone,,3
 18.10.18,1,00:00,00:30,Surfing,"home, bed",1,2,,phone,Alone,,3
 18.10.18,2,08:00,08:10,Commuting,outside,2,3,,bike,Alone,,7
@@ -107,53 +105,54 @@ Date,Hour,Start,End,Activities,Environments,Energylevel,Moodlevel,Alcohol,Object
 18.10.18,8,17:40,18:20,Eating,"home, kitchen",4,4,,,friends,Matthias,8
 18.10.18,9,18:20,19:20,school project,"home, kitchen",4,3,,computer,friends,"Lila, Matthias",7
 18.10.18,10,20:00,20:15,Commuting,outside,3,4,,bike,friends,"Lila, Matthias",8
-18.10.18,11,20:15,22:15,Dancing,outside,5,5,,,friends,,10
+18.10.18,11,20:15,22:15,party,outside,5,5,,,friends,,10
 18.10.18,12,22:15,23:59,talking,Bar,3,4,Beer,drinks,Friends,"Lila, Matthias",8
-18.10.18,13,00:00,01:00,talking,Bar,3,4,Beer,drinks,Friends,"Lila, Matthias",8
-18.10.18,14,01:00,01:15,Commuting,outside,2,4,,bike,friends,"Lila, Matthias",9
-19.10.18,1,08:50,09:00,Commuting,outside,2,3,,bike,Alone,,6
-19.10.18,2,09:00,11:00,school project,University,2,2,,computer,class,"Ricardo, Joanne, Larissa",6
-19.10.18,3,11:00,12:00,bachelor,University,3,5,,phone,friends,"Välu, Nasir",9
-19.10.18,4,12:00,13:00,"Talking, Eating",outside,3,4,,food,class,LArissa,8
-19.10.18,5,13:00,15:30,school project,university,3,3,,computer,friends,"Ricardo, Joanne, Larissa",7
-19.10.18,6,15:30,15:40,Commuting,outside,3,4,,bike,Alone,,7
-19.10.18,7,15:40,17:00,household,"home, my room",3,4,,,Alone,,8
-19.10.18,8,17:00,18:30,Commuting,outside,1,3,,train,Alone,,6
-19.10.18,9,18:30,19:30,talking,home,3,4,,,family,"mom, stepdad",8
-19.10.18,10,19:30,20:00,Commuting,outside,3,4,,car,family,"brother, mom, stepdad",8
-19.10.18,11,20:00,23:00,"Talking, Eating",Restaurant,4,5,wine,food,family,"brother, mom, stepdad, stepsis",9
-19.10.18,12,23:00,23:30,Commuting,outside,2,3,,car,family,"brother, mom, stepdad",6
-19.10.18,13,23:30,23:59,Reading,"home, my room",1,3,,book,Alone,,7
+19.10.18,1,00:00,01:00,talking,Bar,3,4,Beer,drinks,Friends,"Lila, Matthias",8
+19.10.18,2,01:00,01:15,Commuting,outside,2,4,,bike,friends,"Lila, Matthias",9
+19.10.18,3,08:50,09:00,Commuting,outside,2,3,,bike,Alone,,6
+19.10.18,4,09:00,11:00,school project,University,2,2,,computer,class,"Ricardo, Joanne, Larissa",6
+19.10.18,5,11:00,12:00,school project,University,3,5,,phone,friends,"Välu, Nasir",9
+19.10.18,6,12:00,13:00,eating,outside,3,4,,food,class,LArissa,8
+19.10.18,7,13:00,15:30,school project,university,3,3,,computer,friends,"Ricardo, Joanne, Larissa",7
+19.10.18,8,15:30,15:40,Commuting,outside,3,4,,bike,Alone,,7
+19.10.18,9,15:40,17:00,household,"home, my room",3,4,,,Alone,,8
+19.10.18,10,17:00,18:30,Commuting,outside,1,3,,train,Alone,,6
+19.10.18,11,18:30,19:30,talking,home,3,4,,,family,"mom, stepdad",8
+19.10.18,12,19:30,20:00,Commuting,outside,3,4,,car,family,"brother, mom, stepdad",8
+19.10.18,13,20:00,23:00,Eating,Restaurant,4,5,wine,food,family,"brother, mom, stepdad, stepsis",9
+19.10.18,14,23:00,23:30,Commuting,outside,2,3,,car,family,"brother, mom, stepdad",6
+19.10.18,15,23:30,23:59,Reading,"home, my room",1,3,,book,Alone,,7
 20.10.18,1,00:00,00:30,Reading,"home, my room",1,3,,book,Alone,,7
 20.10.18,2,10:00,11:30,Reading,home,4,4,,book,Alone,,8
 20.10.18,3,11:50,12:00,commuting,outside,4,4,,walking,Alone,,9
 20.10.18,4,12:00,16:00,talking,outside,4,5,,food,Friends,Anina,9
 20.10.18,5,17:00,18:30,Commuting,outside,4,5,,"Train, book, phone",Alone,,9
-20.10.18,6,18:30,21:00,"Talking, Cooking, Eating",Ross home,5,5,,food,Friends,Ross,10
-20.10.18,7,21:00,23:59,Concert,Concert Venue,4,4,beer,,Friends,Ross,9
-21.10.18,7,00:00,04:00,Concert,Concert Venue,4,4,beer,,Friends,Ross,9
-21.10.18,1,04:00,05:00,talking,Ross home,1,4,,,Friends,Ross,9
-21.10.18,2,11:30,14:30,talking,Ross home,3,5,,,Friends,Ross,9
-21.10.18,3,15:00,16:30,Commuting,outside,3,5,,"Train, book, phone",Alone,,9
-21.10.18,4,17:00,19:15,Cooking,"home, kitchen",4,5,,,Friends,"Lila, Matthias",9
-21.10.18,5,19:15,20:00,Eating,"home, kitchen",4,5,,Food,Friends,"Lila, Matthias",10
-21.10.18,6,20:00,22:00,Netflix,"home, my room",3,4,,TV,Friends,"Lila, Matthias",7
-21.10.18,7,22:00,23:00,Reading,"home, bed",2,4,,book,Alone,,8
-21.10.18,8,23:00,23:59,Surfing,"home, bed",1,2,,phone,alone,,3
+20.10.18,6,18:30,19:15,cooking,Ross home,5,5,,food,Friends,Ross,10
+20.10.18,7,19:15,21:00,Talking,Ross home,5,5,,food,Friends,Ross,10
+20.10.18,8,21:00,23:59,Culture,Concert Venue,4,4,beer,,Friends,Ross,9
+21.10.18,1,00:00,04:00,party,Concert Venue,4,4,beer,,Friends,Ross,9
+21.10.18,2,04:00,05:00,talking,Ross home,1,4,,,Friends,Ross,9
+21.10.18,3,11:30,14:30,talking,Ross home,3,5,,,Friends,Ross,9
+21.10.18,4,15:00,16:30,Commuting,outside,3,5,,"Train, book, phone",Alone,,9
+21.10.18,5,17:00,19:15,Cooking,"home, kitchen",4,5,,,Friends,"Lila, Matthias",9
+21.10.18,6,19:15,20:00,Eating,"home, kitchen",4,5,,Food,Friends,"Lila, Matthias",10
+21.10.18,7,20:00,22:00,Netflix,"home, my room",3,4,,TV,Friends,"Lila, Matthias",7
+21.10.18,8,22:00,23:00,Reading,"home, bed",2,4,,book,Alone,,8
+21.10.18,9,23:00,23:59,Surfing,"home, bed",1,2,,phone,alone,,3
 22.10.18,1,00:00,00:30,Surfing,"home, bed",1,2,,phone,alone,,3
 22.10.18,2,07:30,08:00,Meditating,"home, bed",2,4,,,alone,,4
-22.10.18,3,08:00,08:45,"Eating, reading","home, kitchen",3,3,,"food, book",alone,,8
+22.10.18,3,08:00,08:45,Reading,"home, kitchen",3,3,,"food, book",alone,,8
 22.10.18,4,08:50,09:00,Commuting,outside,3,3,,bike,alone,,7
 22.10.18,5,09:00,11:30,school project,university,2,3,,computer,class,larissa,4
 22.10.18,6,11:30,11:50,Commuting,outside,3,3,,bike,alone,,7
-22.10.18,7,12:00,13:00,Power Yoga,sporthall,3,4,,,sportclass,,9
+22.10.18,7,12:00,13:00,Sport,sporthall,3,4,,,sportclass,,9
 22.10.18,8,13:00,13:15,Commuting,outside,4,4,,bike,alone,,9
 22.10.18,9,13:30,16:45,school project,university,4,4,,computer,class,larissa,7
 22.10.18,10,16:45,17:30,Commuting,outside,3,3,,tram,alone,,7
 22.10.18,11,17:00,18:00,household,home,3,2,,,alone,,6
 22.10.18,12,18:30,19:30,Cooking,"home, kitchen",3,4,,,friends,"Lila, Matthias",8
-22.10.18,13,19:30,20:30,"Eating, reading","home, kitchen",3,4,,"food, book",alone,,9
-22.10.18,14,20:30,23:00,"Drawing, TV","home, lilas room",2,3,,"computer, TV",friends,"lila, Matthias, ubah, domi 1+2",8
+22.10.18,13,19:30,20:30,Reading,"home, kitchen",3,4,,"food, book",alone,,9
+22.10.18,14,20:30,23:00,School project,"home, lilas room",2,3,,"computer, TV",friends,"lila, Matthias, ubah, domi 1+2",8
 22.10.18,15,23:00,23:59,Reading,"home, bed",1,3,,book,alone,,7
 23.10.18,1,00:00,00:30,surfing,"home, bed",1,2,,phone,alone,,4
 23.10.18,2,08:00,08:30,meditating,"home, bed",2,3,,,alone,,6
@@ -166,175 +165,175 @@ Date,Hour,Start,End,Activities,Environments,Energylevel,Moodlevel,Alcohol,Object
 23.10.18,9,17:00,19:00,Commuting,outside,3,4,,"train, walking, bike",class,"Ricardo, Joanne",8
 23.10.18,10,19:00,21:00,Netflix,"home, my room",3,3,,"computer, food",alone,,7
 23.10.18,11,21:00,23:00,talking,"home, my room",2,3,,,friends,arrigo,9
-23.10.18,12,23:00,23:59,"drawing, netflix","home, my room",1,3,,computer,alone,,7
-24.10.18,1,00:00,00:30,"drawing, netflix","home, my room",1,3,,computer,alone,,7
-24.10.18,2,00:30,01:00,Good Time Journal,"home, bed",1,3,,computer,alone,,8
+23.10.18,12,23:00,23:59,School project,"home, my room",1,3,,computer,alone,,7
+24.10.18,1,00:00,00:30,School project,"home, my room",1,3,,computer,alone,,7
+24.10.18,2,00:30,01:00,journal,"home, bed",1,3,,computer,alone,,8
 24.10.18,3,07:30,07:50,meditating,"home, bed",2,2,,,alone,,7
 24.10.18,4,08:30,08:40,Commuting,outside,2,2,,bike,alone,,7
 24.10.18,5,08:45,12:15,Working,office,3,3,,computer,co worker,"urs, ueli",6
-24.10.18,6,12:15,12:45,"talking, eating",office,4,3,,food,students,"arrigo, daniel",7
+24.10.18,6,12:15,12:45,Eating,office,4,3,,food,students,"arrigo, daniel",7
 24.10.18,7,12:45,16:30,Working,office,3,3,,computer,alone,"urs, ueli",4
 24.10.18,8,16:30,16:50,Commuting,outside,4,4,,bike,alone,,8
-24.10.18,9,17:00,18:00,bodyforming,sporthall,4,4,,,sportclass,,9
+24.10.18,9,17:00,18:00,sport,sporthall,4,4,,,sportclass,,9
 24.10.18,10,18:00,18:10,commuting,outside,4,4,,bike,alone,,9
-24.10.18,11,18:30,22:00,"Talking, Cooking, Eating","home, kitchen",5,5,wine,food,friends,"anina, lila, Matthias",10
+24.10.18,11,18:30,22:00,cooking,"home, kitchen",5,5,wine,food,friends,"anina, lila, Matthias",10
 24.10.18,12,22:00,23:00,Netflix,"home, my room",3,5,,TV,friends,"anina, lila, Matthias",8
 24.10.18,13,23:00,23:59,Talking,"home, bed",2,4,,,friends,anina,8
 25.10.18,1,08:45,10:00,talking,"home, kitchen",3,5,,coffee,friends,anina,9
 25.10.18,2,10:00,10:10,commuting,outside,3,4,,bike,alone,,8
 25.10.18,3,10:15,12:00,school project,university,4,4,,computer,Class,larissa,8
-25.10.18,4,12:00,13:00,"talking, eating",outside,4,4,,food,class,larissa,8
+25.10.18,4,12:00,13:00,Eating,outside,4,4,,food,class,larissa,8
 25.10.18,5,13:00,14:30,school project,university,4,4,,computer,class,larissa,7
 25.10.18,6,14:30,14:40,Commuting,outside,4,3,,bike,alone,,8
-25.10.18,7,14:40,16:30,"household, netflix","home, my room",4,3,,computer,alone,,8
+25.10.18,7,14:40,16:30,Household,"home, my room",4,3,,computer,alone,,8
 25.10.18,8,16:30,16:40,Commuting,outside,4,3,,bike,alone,,8
-25.10.18,9,16:45,18:00,power Yoga,sporthall,4,5,,,sportclass,,9
+25.10.18,9,16:45,18:00,sport,sporthall,4,5,,,sportclass,,9
 25.10.18,10,18:00,18:10,Commuting,outside,4,4,,bike,alone,,8
 25.10.18,11,18:15,18:40,cooking,"home, kitchen",4,3,,food,friends,"lila, Matthias",8
-25.10.18,12,18:40,19:20,"eating, netflix","home, my room",4,3,,"food, computer",alone,,8
+25.10.18,12,18:40,19:20,eating,"home, my room",4,3,,"food, computer",alone,,8
 25.10.18,13,19:40,21:00,household,"home, my room",3,2,,,alone,,2
-25.10.18,14,21:00,22:15,"commuting, Good Time Journal",outside,2,3,,train,alone,,9
+25.10.18,14,21:00,22:15,Commuting,outside,2,3,,train,alone,,9
 25.10.18,15,22:30,23:59,Netflix,"home, bed",2,3,,computer,alone,,8
 26.10.18,1,00:00,01:00,Netflix,"home, bed",2,3,,computer,alone,,8
 26.10.18,2,08:30,09:10,errands,"home, bed",3,2,,computer,alone,,7
-26.10.18,3,09:30,11:00,bachelor,"home, bed",3,3,,computer,class,"Ricardo, Joanne, Larissa",8
+26.10.18,3,09:30,11:00,school project,"home, bed",3,3,,computer,class,"Ricardo, Joanne, Larissa",8
 26.10.18,4,11:00,12:00,errands,"home, bathroom",4,3,,,alone,,8
-26.10.18,5,12:00,12:30,"Eating, talking",home,4,3,,food,family,"brother, mom, stepdad",6
+26.10.18,5,12:00,12:30,eating,home,4,3,,food,family,"brother, mom, stepdad",6
 26.10.18,6,12:30,13:30,errands,"home, bathroom",4,3,,,alone,,6
-26.10.18,7,14:00,16:30,Wedding,outside,4,2,,,family,group,4
+26.10.18,7,14:00,16:30,Party,outside,4,2,,,family,group,4
 26.10.18,8,16:30,17:45,talking,home,4,4,whisky cola,drink,family,brother,8
 26.10.18,9,17:45,18:10,Commuting,outside,4,4,,car,"Friends, Family","brother, anina",7
-26.10.18,10,18:15,23:59,Wedding,restaurant,3,4,,,"Friends, Family",,7
+26.10.18,10,18:15,23:59,Party,restaurant,3,4,,,"Friends, Family",,7
 26.10.18,11,00:00,00:30,Commuting,outside,2,3,,car,"Friends, Family","brother, anina",6
 26.10.18,12,00:30,01:00,talking,home,2,3,wine,drink,family,"brother, mom, stepdad",6
-26.10.18,13,01:00,01:30,NEtflix,"home, bed",1,3,,computer,alone,,4
-27.10.18,1,09:00,10:00,bachelor,"home, bed",2,4,,computer,alone,,7
+26.10.18,13,01:00,01:30,netflix,"home, bed",1,3,,computer,alone,,4
+27.10.18,1,09:00,10:00,school project,"home, bed",2,4,,computer,alone,,7
 27.10.18,2,10:00,12:00,Reading,home,2,4,,"coffee, book",alone,,6
-27.10.18,3,12:00,14:00,"talking, eating",restaurant,3,4,,food,friends,5N,7
-27.10.18,4,14:00,16:30,Museum,outside,2,3,,,alone,,7
-27.10.18,5,16:30,18:00,"working, talking",home,1,3,,computer,family,"brother, stepdad",7
+27.10.18,3,12:00,14:00,eating,restaurant,3,4,,food,friends,5N,7
+27.10.18,4,14:00,16:30,Culture,outside,2,3,,,alone,,7
+27.10.18,5,16:30,18:00,working,home,1,3,,computer,family,"brother, stepdad",7
 27.10.18,6,18:00,18:30,errands,home,2,3,,,alone,,7
 27.10.18,7,18:30,19:00,eating,home,2,3,,food,family,"brother, mom, stepdad",8
 27.10.18,8,19:00,20:30,Commuting,outside,1,2,,train,alone,,4
-27.10.18,9,20:30,21:30,"errands, talking",home,2,3,,,friends,lila,6
+27.10.18,9,20:30,21:30,errands,home,2,3,,,friends,lila,6
 27.10.18,10,21:30,22:15,Commuting,outside,2,2,,"tram, walking",friends,"Lila, Matthias",4
 27.10.18,11,22:15,23:59,Party,outside,3,3,beer,"drinks, playing cards",friends,"Lila, Matthias",5
 28.10.18,1,00:00,02:30,Party,outside,3,3,beer,"drinks, playing cards",friends,"Lila, Matthias",5
 28.10.18,2,02:30,03:00,Commuting,outside,1,3,,"bus, walking",friends,"Lila, Matthias",4
 28.10.18,3,03:00,03:30,netflix,"home, bed",1,2,,computer,alone,,6
-28.10.18,4,10:00,13:00,"eating, netflix","home, bed",1,2,,computer,alone,,6
-28.10.18,5,13:00,14:00,"household, netflix","home, my room",2,3,,computer,alone,,7
-28.10.18,6,14:00,17:00,"school project, netflix","home, my room",2,3,,computer,alone,,8
-28.10.18,7,18:00,18:45,"talking, eating",restaurant,2,3,,food,Friends,"Lila, Matthias",7
+28.10.18,4,10:00,13:00,netflix,"home, bed",1,2,,computer,alone,,6
+28.10.18,5,13:00,14:00,household,"home, my room",2,3,,computer,alone,,7
+28.10.18,6,14:00,17:00,school project,"home, my room",2,3,,computer,alone,,8
+28.10.18,7,18:00,18:45,Eating,restaurant,2,3,,food,Friends,"Lila, Matthias",7
 28.10.18,8,18:45,19:00,Commuting,outside,2,3,,tram,Friends,"Lila, Matthias",7
-28.10.18,9,19:00,20:45,Cinema,outside,2,3,,cinema,Friends,"Lila, Matthias",8
+28.10.18,9,19:00,20:45,Culture,outside,2,3,,cinema,Friends,"Lila, Matthias",8
 28.10.18,10,20:45,21:00,Commuting,outside,2,3,,tram,Friends,"Lila, Matthias",7
 28.10.18,11,21:00,21:45,Talking,home,2,3,,,Friends,"Lila, Matthias",7
-28.10.18,12,21:45,22:30,Good Time Journal,"home, bed",1,3,,computer,alone,,7
+28.10.18,12,21:45,22:30,journal,"home, bed",1,3,,computer,alone,,7
 29.10.18,1,09:45,10:00,Commuting,outside,3,4,,tram,Alone,,8
-29.10.18,2,10:00,13:00,bachelor,Välu,4,4,,"Computer, food",Class,Välu,9
+29.10.18,2,10:00,13:00,school project,Välu,4,4,,"Computer, food",Class,Välu,9
 29.10.18,3,13:00,16:00,Talking,välu,4,4,,"computer, book",Class,Välu,9
 29.10.18,4,16:00,16:15,Commuting,outside,3,4,,tram,Class,Välu,8
 29.10.18,5,16:30,17:00,Household,"home, my room",3,3,,,alone,,5
 29.10.18,6,17:00,19:00,Netflix,"home, bed",3,3,,"computer, food",alone,,9
 29.10.18,7,19:00,20:30,Surfing,"home, bed",2,2,,computer,alone,,4
-29.10.18,8,21:00,23:00,"Drawing, TV","home, lilas room",4,3,Beer,"computer, TV",friends,"Lila, Ubah",8
+29.10.18,8,21:00,23:00,School project,"home, lilas room",4,3,Beer,"computer, TV",friends,"Lila, Ubah",8
 29.10.18,9,23:00,23:59,talking,"home, kitchen",3,3,Beer,,friends,"Lila, Ubah",8
 30.10.18,1,09:00,09:30,Meditating,"home, bed",2,4,,,alone,,7
-30.10.18,2,10:00,11:00,"Eating, reading","home, kitchen",4,3,,"book, food",alone,,7
-30.10.18,3,11:00,12:00,"Household, podcast","home, my room",4,3,,,alone,,8
+30.10.18,2,10:00,11:00,Eating,"home, kitchen",4,3,,"book, food",alone,,7
+30.10.18,3,11:00,12:00,household,"home, my room",4,3,,,alone,,8
 30.10.18,4,12:00,12:15,Commuting,outside,3,3,,bike,alone,,3
-30.10.18,5,12:30,13:30,Power Yoga,sporthall,5,5,,,sportclass,,9
+30.10.18,5,12:30,13:30,Sport,sporthall,5,5,,,sportclass,,9
 30.10.18,6,13:30,13:45,Commuting,outside,5,5,,bike,alone,,9
 30.10.18,7,13:45,14:45,Errands,town,4,4,,,alone,,4
 30.10.18,8,14:45,15:00,Commuting,outside,4,3,,bike,alone,,6
 30.10.18,9,15:00,15:30,Cooking,"home, kitchen",4,5,,food,alone,,9
-30.10.18,10,15:30,16:00,"eating, netflix","home, kitchen",3,4,,"computer, food",alone,,8
+30.10.18,10,15:30,16:00,Eating,"home, kitchen",3,4,,"computer, food",alone,,8
 30.10.18,11,16:00,18:00,Working,"home, my room",3,3,,computer,alone,,8
-30.10.18,12,18:00,18:10,Good Time Journal,"home, my room",3,3,,computer,alone,,8
+30.10.18,12,18:00,18:10,journal,"home, my room",3,3,,computer,alone,,8
 30.10.18,13,18:10,18:40,talking,outside,3,4,,,friends,"Lila, Ubah, Matthias",8
-30.10.18,14,18:40,19:40,Drawing,"home, my room",3,4,,computer,alone,,9
-30.10.18,15,20:00,22:00,"eating, netflix","home, bed",3,4,,computer,alone,,9
-30.10.18,16,22:00,23:45,music,"home, bed",2,3,,computer,alone,,7
+30.10.18,14,18:40,19:40,reading,"home, my room",3,4,,computer,alone,,9
+30.10.18,15,20:00,22:00,Netflix,"home, bed",3,4,,computer,alone,,9
+30.10.18,16,22:00,23:45,culture,"home, bed",2,3,,computer,alone,,7
 30.10.18,17,23:45,23:59,reading,"home, bed",2,3,,book,alone,,5
 31.10.18,1,08:30,08:40,Commuting,outside,2,4,,bike,alone,,8
 31.10.18,2,08:45,12:00,Working,office,3,4,,computer,alone,,6
-31.10.18,3,12:15,13:00,"Eating, talking",office,4,4,,,friends,"jeremy, dominik",7
+31.10.18,3,12:15,13:00,eating,office,4,4,,,friends,"jeremy, dominik",7
 31.10.18,4,13:00,17:00,Working,office,3,4,,computer,alone,,6
 31.10.18,5,17:00,17:15,errands,outside,3,3,,,alone,,7
 31.10.18,6,17:15,17:25,Commuting,outside,3,3,,bike,alone,,5
 31.10.18,7,18:00,18:30,talking,"home, kitchen",3,4,,,friends,lila,10
 31.10.18,8,18:30,19:15,surfing,"home, bed",2,3,,computer,alone,,4
-31.10.18,9,19:30,22:30,"eating, netflix","home, lilas room",4,5,wine,"TV, food",friends,lila,10
+31.10.18,9,19:30,22:30,netflix,"home, lilas room",4,5,wine,"TV, food",friends,lila,10
 31.10.18,10,22:30,23:00,reading,"home, bed",2,3,,book,alone,,5
 01.11.18,1,08:00,08:15,Commuting,outside,2,3,,bike,alone,,6
 01.11.18,2,08:15,12:30,Working,office,2,2,,computer,co worker,"urs, ueli",7
-01.11.18,3,12:30,12:45,"talking, eating",office,4,5,,food,friends,"jeremy, arrigo, daniel",10
+01.11.18,3,12:30,12:45,Eating,office,4,5,,food,friends,"jeremy, arrigo, daniel",10
 01.11.18,4,12:45,13:30,Working,office,4,3,,computer,alone,,9
 01.11.18,5,13:30,13:40,Commuting,outside,3,4,,bike,alone,,9
 01.11.18,6,13:40,15:30,Talking,"home, kitchen",4,4,,,family,mom,7
 01.11.18,7,15:30,16:30,cooking,"home, kitchen",4,4,,food,alone,,9
 01.11.18,8,16:30,16:40,Commuting,outside,4,3,,bike,alone,,8
-01.11.18,9,16:45,18:00,power Yoga,sporthall,2,3,,,sportclass,,7
+01.11.18,9,16:45,18:00,sport,sporthall,2,3,,,sportclass,,7
 01.11.18,10,18:00,18:10,Commuting,outside,2,2,,bike,alone,,5
-01.11.18,11,18:30,19:15,"eating, netflix","home, my room",2,3,,"computer, food",alone,,8
+01.11.18,11,18:30,19:15,netflix,"home, my room",2,3,,"computer, food",alone,,8
 01.11.18,12,19:45,20:00,commuting,outside,3,3,,tram,friends,"jeremy, dominik",7
 01.11.18,13,20:00,23:59,party,outside,4,4,beer,"drinks, rollerblades",friends,"jeremy, dominik",8
-01.11.18,14,00:00,00:15,commuting,outside,2,4,,tram,friends,jeremy,8
-01.11.18,15,00:15,00:45,Talking,outside,2,4,,,friends,jeremy,8
-02.11.18,1,08:20,09:30,"Eating, reading","home, bed",1,3,,"book, food",alone,,8
-02.11.18,2,09:30,10:15,Working,"home, bed",1,4,,computer,alone,,8
-02.11.18,3,10:15,10:25,commuting,outside,3,4,,bike,alone,,9
-02.11.18,4,10:30,12:00,bachelor,university,4,4,,,class,"välu, ruedi",9
-02.11.18,5,12:00,12:10,commuting,outside,4,4,,bike,alone,,8
-02.11.18,6,12:15,13:15,"Eating, reading","home, kitchen",4,5,,"book, food",alone,,9
-02.11.18,7,13:15,13:25,commuting,outside,4,4,,bike,alone,,8
-02.11.18,8,13:30,14:00,Doctor,practice,3,4,,,doctor,,8
-02.11.18,9,14:00,14:15,commuting,outside,3,4,,bike,alone,,7
-02.11.18,10,14:30,18:15,school project,"home, my room",2,4,,,alone,,8
-02.11.18,11,18:45,20:00,Commuting,outside,2,3,,train,friends,lila,5
-02.11.18,12,20:00,23:59,talking,alis home,4,5,wine,"drinks, food",friends,5n,10
+02.11.18,1,00:00,00:15,commuting,outside,2,4,,tram,friends,jeremy,8
+02.11.18,2,00:15,00:45,Talking,outside,2,4,,,friends,jeremy,8
+02.11.18,3,08:20,09:30,Reading,"home, bed",1,3,,"book, food",alone,,8
+02.11.18,4,09:30,10:15,Working,"home, bed",1,4,,computer,alone,,8
+02.11.18,5,10:15,10:25,commuting,outside,3,4,,bike,alone,,9
+02.11.18,6,10:30,12:00,school project,university,4,4,,,class,"välu, ruedi",9
+02.11.18,7,12:00,12:10,commuting,outside,4,4,,bike,alone,,8
+02.11.18,8,12:15,13:15,Reading,"home, kitchen",4,5,,"book, food",alone,,9
+02.11.18,9,13:15,13:25,commuting,outside,4,4,,bike,alone,,8
+02.11.18,10,13:30,14:00,Errands,practice,3,4,,,doctor,,8
+02.11.18,11,14:00,14:15,commuting,outside,3,4,,bike,alone,,7
+02.11.18,12,14:30,18:15,school project,"home, my room",2,4,,,alone,,8
+02.11.18,13,18:45,20:00,Commuting,outside,2,3,,train,friends,lila,5
+02.11.18,14,20:00,23:59,talking,alis home,4,5,wine,"drinks, food",friends,5n,10
 03.11.18,1,00:00,01:00,talking,alis home,4,5,wine,"drinks, food",friends,5n,10
 03.11.18,2,01:00,01:10,Commuting,outside,4,5,,car,friends,5n,10
 03.11.18,3,01:15,01:45,Netflix,"home, bed",1,4,,,alone,,4
 03.11.18,4,09:00,10:00,Working,"home, bed",2,4,,,alone,,7
-03.11.18,5,11:00,12:30,"Eating, talking","home, dining room",2,3,,,family,,6
+03.11.18,5,11:00,12:30,Eating,"home, dining room",2,3,,,family,,6
 03.11.18,6,13:00,14:30,Working,"home, dining room",3,3,,,family,"mom, stepdad, bro",8
 03.11.18,7,14:30,16:00,Errands,outside,2,3,,,family,mom,4
-03.11.18,8,16:30,19:30,"Talking, Cooking","home, kitchen",3,4,,food,family,mom,8
-03.11.18,9,19:45,22:00,"talking, eating",outside,4,4,wine,food,"Friends, Family","anina, mom, stepdad, bro",9
-03.11.18,10,22:00,23:59,talking,aninas home,3,4,,,friends,anina,9
+03.11.18,8,16:30,18:00,talking,"home, kitchen",3,4,,food,family,mom,8
+03.11.18,9,18:00,19:45,Cooking,"home, kitchen",3,4,,food,family,mom,8
+03.11.18,10,19:45,22:00,eating,outside,4,4,wine,food,"Friends, Family","anina, mom, stepdad, bro",9
+03.11.18,11,22:00,23:59,talking,aninas home,3,4,,,friends,anina,9
 04.11.18,1,00:00,02:00,Netflix,aninas home,3,4,,"TV, food",friends,anina,9
 04.11.18,2,02:00,02:15,Commuting,outside,4,4,,walking,alone,,10
-04.11.18,3,02:30,03:00,Music,"home, bed",1,5,,,alone,,10
+04.11.18,3,02:30,03:00,Culture,"home, bed",1,5,,,alone,,10
 04.11.18,4,08:30,09:00,Talking,"home, dining room",2,4,,,family,"stepdad, stepsis",5
 04.11.18,5,09:30,10:00,Commuting,outside,2,3,,car,family,stepsis,5
-04.11.18,6,10:00,17:00,Museum,outside,3,4,wine,,family,stepsis,9
+04.11.18,6,10:00,17:00,Culture,outside,3,4,wine,,family,stepsis,9
 04.11.18,7,17:00,18:00,Commuting,outside,2,2,,"train, POdcast",alone,,4
-04.11.18,8,19:00,20:00,"Eating, talking","home, kitchen",2,3,,food,friends,"Lila, Matthias",8
+04.11.18,8,19:00,20:00,Eating,"home, kitchen",2,3,,food,friends,"Lila, Matthias",8
 04.11.18,9,20:00,22:00,Netflix,"home, bed",2,3,,computer,alone,,5
-04.11.18,10,22:00,23:00,Good Time Journal,"home, bed",2,3,,computer,alone,,7
-04.11.18,11,23:00,23:59,journal,"home, bed",2,4,,journal,alone,,9
+04.11.18,10,22:00,23:59,journal,"home, bed",2,3,,computer,alone,,7
 05.11.18,1,00:00,01:30,journal,"home, bed",2,4,,journal,alone,,9
 05.11.18,2,08:40,09:00,Meditating,"home, bed",2,3,,,alone,,8
 05.11.18,3,09:05,09:15,Commuting,outside,3,4,,bike,alone,,7
 05.11.18,4,09:15,11:30,school project,university,2,4,,computer,class,Joanne,8
 05.11.18,5,11:30,11:50,Commuting,outside,3,3,,bike,alone,,7
-05.11.18,6,12:00,13:00,Power Yoga,sporthall,5,5,,,sportclass,,10
+05.11.18,6,12:00,13:00,Sport,sporthall,5,5,,,sportclass,,10
 05.11.18,7,13:00,13:15,Commuting,outside,5,5,,bike,alone,,9
 05.11.18,8,13:15,17:00,school project,university,4,3,,computer,class,joanne,6
 05.11.18,9,17:00,17:10,Commuting,outside,3,3,,bike,alone,,7
-05.11.18,10,18:00,18:30,"Talking, Cooking","home, kitchen",3,3,,food,Friends,lila,9
-05.11.18,11,18:30,20:00,"school project, netflix","home, my room",3,3,,computer,alone,,8
+05.11.18,10,18:00,18:30,Cooking,"home, kitchen",3,3,,food,Friends,lila,9
+05.11.18,11,18:30,20:00,school project,"home, my room",3,3,,computer,alone,,8
 05.11.18,12,20:00,21:00,talking,"home, kitchen",4,4,,,friends,"lila, Matthias, ubah, domi 1+2",9
-06.11.18,1,21:00,23:00,"drawing, TV","home, lilas room",4,5,wine,TV,friends,"lila, Matthias, ubah, domi 1+2",9
-06.11.18,2,07:00,07:15,Meditating,"home, bed",3,3,,,alone,,8
-06.11.18,3,07:30,07:45,Commuting,outside,3,3,,bike,alone,,4
-06.11.18,4,07:45,12:15,working,office,3,3,,computer,co worker,urs,7
-06.11.18,5,12:15,13:00,eating,office,3,3,,food,friends,arrigo,8
-06.11.18,6,13:00,16:30,working,office,3,3,,computer,co worker,urs,6
-06.11.18,7,16:30,17:10,commuting,outside,3,4,,"bike, tram",alone,,4
-06.11.18,8,17:15,19:30,Talking,bar,3,4,beer,drinks,friends,Ross,9
-06.11.18,9,20:00,21:30,concert,bar,4,5,,,friends,"Ross, lila, matthias",10
-06.11.18,10,21:30,22:45,talking,bar,4,5,beer,drinks,friends,"Ross, lila, matthias",9
-06.11.18,11,22:45,23:59,commuting,outside,2,4,,tram,friends,"Lila, Matthias",5
+05.11.18,13,21:00,23:00,School project,"home, lilas room",4,5,wine,TV,friends,"lila, Matthias, ubah, domi 1+2",9
+06.11.18,1,07:00,07:15,Meditating,"home, bed",3,3,,,alone,,8
+06.11.18,2,07:30,07:45,Commuting,outside,3,3,,bike,alone,,4
+06.11.18,3,07:45,12:15,working,office,3,3,,computer,co worker,urs,7
+06.11.18,4,12:15,13:00,eating,office,3,3,,food,friends,arrigo,8
+06.11.18,5,13:00,16:30,working,office,3,3,,computer,co worker,urs,6
+06.11.18,6,16:30,17:10,commuting,outside,3,4,,"bike, tram",alone,,4
+06.11.18,7,17:15,19:30,Talking,bar,3,4,beer,drinks,friends,Ross,9
+06.11.18,8,20:00,21:30,party,bar,4,5,,,friends,"Ross, lila, matthias",10
+06.11.18,9,21:30,22:45,talking,bar,4,5,beer,drinks,friends,"Ross, lila, matthias",9
+06.11.18,10,22:45,23:59,commuting,outside,2,4,,tram,friends,"Lila, Matthias",5
