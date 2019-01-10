@@ -15,16 +15,22 @@ var dayHour  = ['12am', '1am','2am','3am','4am', '5am','6am','7am','8am','9am','
 '12pm','1pm','2pm','3pm','4pm', '5pm','6pm','7pm','8pm','9pm','10pm','11pm'];
 var activities = [];
 var dataLength = 900;
-
-
+// let font,
+//   fontsize = 32;
+//
+// function preload() {
+//   // Ensure the .ttf or .otf font stored in the assets directory
+//   // is loaded before setup() and draw() are called
+//   font = loadFont('assets/SourceSansPro-Regular.otf');
+// }
 
 
 
 function setup() {
-  createCanvas(1200, 1700);
-
-
+  createCanvas(1000, 800);
   noLoop();
+  pixelDensity(3);
+
 
   d3.csv("GTJ.csv", function (d, i) { //d geht jede einzelne Zeile durch. D= Array
 
@@ -102,12 +108,12 @@ function setup() {
 
     colorScale.domain(activities)
     .range(['#ff93ab',  '#94c3af', '#155a3c', '#ffb745', '#6a002b',
-      '#138d90', '#001871', '#43bcff', '#ffb743', '#e95b4f', '#660033',
-      '#a4e46b', '#fb6f62', '#f69454', '#24978d', '#01796f', '#990033',
-      '#cb2636', '#a7dbce', '#6abf5a', '#ff8b27', '#d2ac7d', '#890029',
-      '#79b120', '#ca326b', '#f3b0d0', '#A37AA5', '#e15a53','#bc7568',
-      '#4c8cb5', '#de937c', '#374873', '#86b872', '#a76767', '#67709c',
-      '#85b881', '#b2769d', '#8f6aa1', '#8ee5ee', '#009688', '#ff7878']);
+      '#138d90', '#001871', '#43bcff', '#85b881', '#b2769d', '#8f6aa1', '#8ee5ee',
+  '#009688', '#fb6f62', '#f69454', '#8b0000', '#01796f', '#990033',
+      '#cb2636', '#a7dbce', '#6abf5a', '#ff8b27', '#138d90', '#890029',
+       '#79b120', '#ca326b', '#f3b0d0', '#A37AA5', '#e15a53','#bc7568',
+      '#4c8cb5',  '#43bcff', '#374873', '#86b872', '#a76767', '#67709c'
+      ]);
 
 
 
@@ -117,12 +123,14 @@ function setup() {
 }
 
 function draw() {
+  textFont("Avenir Next");
 
   if (!ready) {
     background(255, 0, 0);
     return;
   } else {
-    background(255);
+    // background(255);
+    clear();
   }
   for (var i = 0; i < data.length; i++) {
 
@@ -138,47 +146,55 @@ function draw() {
     rect(start + 100, y, end - start, 12);
 
 
-    // for (var j = 0; j < weekday.length; j++) {
+//     for (var j = 0; j < weekday.length; j++) {
+//
+//       var day = weekday[i];
+//       var yy = hourScale(d.hour) + 100;
+//
+//       fill('black');
+//       textAlign(LEFT);
+//       textSize(12);
+//       text(day, 100, yy);
+//
+// }
 
-      // var day = weekday[i];
-      // var yy = hourScale(d.hour) + 100;
-      //
-      // fill('black');
-      // textAlign(LEFT);
-      // textSize(12);
-      // text(day, 100, yy);
+// for (var j = 0; j < dayHour.length; j++) {
+//   var hours = dayHour[j];
+//   var x = j * 900/dayHour.length + 100;
+//
+//
+//     fill('black');
+//     textAlign(LEFT);
+//     textSize(12);
+//     text(hours, x, 75);
+//
+// }
 
+  // for (var i = 0; i < activities.length; i++) {
+  //   var d = activities[i];
+  //   var x = 100;
+  //   var color = colorScale(d);
+  //   var y = activitesScale(d) + 100;
+  //   fill(color);
+  //   noStroke();
+  //   ellipse(100, y-4, 15, 15);
+  //
+  //   console.log();
+  //
+  //
+  //   fill('black');
+  //   textAlign(LEFT);
+  //   textSize(12);
+  //   text(d, 120, y);
+  //
+  // }
 }
-for (var j = 0; j < dayHour.length; j++) {
-  var hours = dayHour[j];
-  var x = j * 900/dayHour.length + 100;
-
-    fill('black');
-    textAlign(LEFT);
-    textSize(11);
-    text(hours, x, 70);
-
-console.log(x);
 }
 
-  for (var i = 0; i < activities.length; i++) {
-    var d = activities[i];
-    var x = 100;
-    var color = colorScale(d);
-    var y = activitesScale(d) + 500;
-    fill(color);
-    noStroke();
-    ellipse(100, y-4, 15, 15);
-
-    console.log();
-
-    fill('black');
-    textAlign(LEFT);
-    textSize(12);
-    text(d, 120, y);
+function keyPressed(){
+  if (key == 's'){
+    saveCanvas('Balken', 'png');
 
   }
-
-
 
 }
